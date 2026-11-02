@@ -20,6 +20,8 @@ FILES = [
     "开发设计文档-问询函预演.docx",
     "实验记录.md",
     "Nexent编排说明.md",
+    "知识图谱构建方案.md",
+    "report-联创光电.html",
 ]
 DIRS = [
     ("videos", (".mp4",)),
@@ -31,12 +33,15 @@ CODE = [
     "tools/match_strict.py", "tools/match_manual.py", "tools/evaluate_all.py",
     "tools/detect_v1.py", "tools/build_demo.py", "tools/make_package.py",
     "tools/verify_doc.py", "tools/audit_sample.py", "tools/quote_rate.py",
+    "tools/build_kg.py", "tools/build_report_html.py", "tools/register_mcp.py",
+    "mcp_server.py",
 ]
 DATA = [
     "data/dataset.json", "data/questions.json", "data/concerns_learned.json",
     "data/eval_all.json", "data/eval_llm.json", "data/match_b2.json",
     "data/match_b1.json", "data/match_rules.json", "data/match_llm_learned.json",
     "data/match_llm_learned2.json", "data/audit_20.json", "data/quote_rate.json",
+    "data/kg.json", "data/concerns_learned.json",
 ]
 RESULT_DIRS = ["data/llm_learned", "data/llm"]
 
