@@ -28,6 +28,19 @@ def main() -> int:
     m2 = load("match_b2.json")["items"]
     ml = load("match_llm_learned.json")["items"]
     ml2 = load("match_llm_learned2.json")["items"]
+    kg = load("kg.json")
+    from collections import Counter as _C
+    _fc, _qc = _C(), _C()
+    for e in kg["edges"]:
+        if e["relation"] != "属于":
+            continue
+        c = e["target"].split(":", 1)[1]
+        if e["source"].startswith("flag:"):
+            _fc[c] += 1
+        elif e["source"].startswith("question:"):
+            _qc[c] += 1
+    new_flags = _fc.get("募集资金与募投项目", 0) + _fc.get("诉讼担保与内控", 0)
+    new_qs = _qc.get("募集资金与募投项目", 0) + _qc.get("诉讼担保与内控", 0)
 
     report_pages = sum(x["report_pages"] for x in ds)
     reply_pages = sum(x["reply_pages"] for x in ds)
@@ -60,6 +73,12 @@ def main() -> int:
         ("折2 关注点", f"{fold2_hit}/{fold2_q}", "16/37"),
         ("引用定位率", f"{qr['located']}/{qr['proposed']}", "57%"),
         ("误报数", au["false"], "3"),
+        ("图谱节点", kg["stats"]["nodes"], "539"),
+        ("图谱边", kg["stats"]["edges"], "819"),
+        ("关注点数", kg["stats"]["concerns_total"], "14"),
+        ("准则对齐", f"{kg['stats']['concerns_aligned']}/{kg['stats']['concerns_total']}", "14/14"),
+        ("新类结论", new_flags, "1 条"),
+        ("新类问题", new_qs, "9 个"),
     ]
     bad = 0
     for name, actual, expect in checks:
