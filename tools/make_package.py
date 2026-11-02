@@ -44,6 +44,7 @@ DATA = [
     "data/kg.json", "data/multimodal.json",
 ]
 RESULT_DIRS = ["data/llm_learned", "data/llm"]
+SKILLS = ["precheck", "learn-concern", "evidence-check"]
 
 
 def main() -> int:
@@ -64,6 +65,11 @@ def main() -> int:
                 if fn.endswith(exts):
                     z.write(os.path.join(base, fn), f"提交材料/{d}/{fn}")
                     n += 1
+        for s in SKILLS:
+            p = os.path.join(ROOT, "skills", s, "SKILL.md")
+            if os.path.exists(p):
+                z.write(p, f"提交材料/skills/{s}/SKILL.md")
+                n += 1
         for f in CODE:
             p = os.path.join(ROOT, f)
             if os.path.exists(p):
