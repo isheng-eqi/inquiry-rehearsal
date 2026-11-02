@@ -41,7 +41,7 @@ DATA = [
     "data/eval_all.json", "data/eval_llm.json", "data/match_b2.json",
     "data/match_b1.json", "data/match_rules.json", "data/match_llm_learned.json",
     "data/match_llm_learned2.json", "data/audit_20.json", "data/quote_rate.json",
-    "data/kg.json", "data/concerns_learned.json",
+    "data/kg.json", "data/multimodal.json",
 ]
 RESULT_DIRS = ["data/llm_learned", "data/llm"]
 
