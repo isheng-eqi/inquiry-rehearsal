@@ -40,6 +40,8 @@ STANDARDS = {
     "关联交易与资金占用": "《企业会计准则第36号——关联方披露》/《上市公司监管指引第8号》",
     "其他应收款减值": "《企业会计准则第22号》/《上市公司监管指引第8号》",
     "预付款项异常": "《企业会计准则第30号》/《监管规则适用指引》",
+    "募集资金与募投项目": "《上市公司募集资金监管规则》",
+    "诉讼担保与内控": "《上市公司信息披露管理办法》/《企业内部控制基本规范》",
     "其他": "未对齐",
 }
 
@@ -56,6 +58,9 @@ def main() -> int:
     ds = {x["code"]: x for x in load("dataset.json")["items"]}
     qs = load("questions.json")["items"]
     concerns = load("concerns_learned.json")["concerns"]
+    manual = load("concerns_manual.json") if os.path.exists(os.path.join(ROOT, "data", "concerns_manual.json")) else []
+    names = {c["name"] for c in concerns}
+    concerns = concerns + [c for c in manual if c["name"] not in names]
     flags_by_code = {}
     for code in ds:
         p = os.path.join(ROOT, "data", "llm", f"{code}.json")
@@ -83,7 +88,7 @@ def main() -> int:
         cid = f"concern:{c['name']}"
         add_node(cid, "Concern", c["name"],
                  {"keywords": c["keywords"], "ask": c["ask"], "standard": align_standard(c["name"])})
-    # 补充 B2 有、本体未覆盖的话题（商誉、在建工程）
+    # 商誉、在建工程作为本体补充（人工确认）
     for extra in ["商誉与减值", "在建工程与转固"]:
         if not any(n["id"] == f"concern:{extra}" for n in nodes):
             add_node(f"concern:{extra}", "Concern", extra,

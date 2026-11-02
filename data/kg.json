@@ -11,6 +11,8 @@
    "货币资金与偿债",
    "存货跌价准备",
    "关联交易与资金占用",
+   "募集资金与募投项目",
+   "诉讼担保与内控",
    "商誉与减值",
    "在建工程与转固"
   ],
@@ -34,6 +36,8 @@
    "关联交易与资金占用": "《企业会计准则第36号——关联方披露》/《上市公司监管指引第8号》",
    "其他应收款减值": "《企业会计准则第22号》/《上市公司监管指引第8号》",
    "预付款项异常": "《企业会计准则第30号》/《监管规则适用指引》",
+   "募集资金与募投项目": "《上市公司募集资金监管规则》",
+   "诉讼担保与内控": "《上市公司信息披露管理办法》/《企业内部控制基本规范》",
    "其他": "未对齐"
   }
  },
@@ -216,6 +220,42 @@
     ],
     "ask": "说明关联交易是否履行审议披露程序、资金是否流向控股股东及内控缺陷整改情况。",
     "standard": "《企业会计准则第36号——关联方披露》/《上市公司监管指引第8号》"
+   }
+  },
+  {
+   "id": "concern:募集资金与募投项目",
+   "type": "Concern",
+   "label": "募集资金与募投项目",
+   "props": {
+    "keywords": [
+     "募集资金",
+     "募投",
+     "超募",
+     "变更",
+     "专户",
+     "进度",
+     "用途"
+    ],
+    "ask": "募集资金用途是否变更、进度是否异常、专户是否违规",
+    "standard": "《上市公司募集资金监管规则》"
+   }
+  },
+  {
+   "id": "concern:诉讼担保与内控",
+   "type": "Concern",
+   "label": "诉讼担保与内控",
+   "props": {
+    "keywords": [
+     "诉讼",
+     "仲裁",
+     "担保",
+     "内控",
+     "处罚",
+     "违规",
+     "占用"
+    ],
+    "ask": "诉讼担保是否披露充分、内控是否有效",
+    "standard": "《上市公司信息披露管理办法》/《企业内部控制基本规范》"
    }
   },
   {
@@ -4950,7 +4990,7 @@
   {
    "source": "flag:600080:8",
    "relation": "属于",
-   "target": "concern:在建工程与转固",
+   "target": "concern:募集资金与募投项目",
    "props": {}
   },
   {
@@ -5328,7 +5368,7 @@
   {
    "source": "flag:603567:4",
    "relation": "属于",
-   "target": "concern:关联交易与资金占用",
+   "target": "concern:诉讼担保与内控",
    "props": {}
   },
   {
@@ -5364,7 +5404,7 @@
   {
    "source": "flag:603567:6",
    "relation": "属于",
-   "target": "concern:在建工程与转固",
+   "target": "concern:募集资金与募投项目",
    "props": {}
   },
   {
@@ -5682,7 +5722,7 @@
   {
    "source": "flag:600187:8",
    "relation": "属于",
-   "target": "concern:在建工程与转固",
+   "target": "concern:募集资金与募投项目",
    "props": {}
   },
   {
@@ -7980,7 +8020,7 @@
   {
    "source": "question:603377:13",
    "relation": "属于",
-   "target": "concern:关联交易与资金占用",
+   "target": "concern:诉讼担保与内控",
    "props": {}
   },
   {
@@ -8064,7 +8104,7 @@
   {
    "source": "question:600080:1",
    "relation": "属于",
-   "target": "concern:在建工程与转固",
+   "target": "concern:募集资金与募投项目",
    "props": {}
   },
   {
@@ -8244,7 +8284,7 @@
   {
    "source": "question:600491:6",
    "relation": "属于",
-   "target": "concern:收入与毛利率",
+   "target": "concern:募集资金与募投项目",
    "props": {}
   },
   {
@@ -8784,7 +8824,7 @@
   {
    "source": "question:688646:0",
    "relation": "属于",
-   "target": "concern:关联交易与资金占用",
+   "target": "concern:募集资金与募投项目",
    "props": {}
   },
   {
@@ -8796,7 +8836,7 @@
   {
    "source": "question:688646:1",
    "relation": "属于",
-   "target": "concern:其他",
+   "target": "concern:募集资金与募投项目",
    "props": {}
   },
   {
@@ -9168,7 +9208,7 @@
   {
    "source": "question:600703:2",
    "relation": "属于",
-   "target": "concern:货币资金与偿债",
+   "target": "concern:募集资金与募投项目",
    "props": {}
   },
   {
@@ -9288,7 +9328,7 @@
   {
    "source": "question:600703:12",
    "relation": "属于",
-   "target": "concern:其他",
+   "target": "concern:诉讼担保与内控",
    "props": {}
   },
   {
@@ -9312,7 +9352,7 @@
   {
    "source": "question:600545:1",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:诉讼担保与内控",
    "props": {}
   },
   {
@@ -9324,7 +9364,7 @@
   {
    "source": "question:600545:2",
    "relation": "属于",
-   "target": "concern:投资性房地产",
+   "target": "concern:诉讼担保与内控",
    "props": {}
   },
   {
@@ -9360,7 +9400,7 @@
   {
    "source": "question:600545:5",
    "relation": "属于",
-   "target": "concern:关联交易与资金占用",
+   "target": "concern:诉讼担保与内控",
    "props": {}
   },
   {
@@ -9504,7 +9544,7 @@
   {
    "source": "question:600877:0",
    "relation": "属于",
-   "target": "concern:其他",
+   "target": "concern:诉讼担保与内控",
    "props": {}
   },
   {
@@ -9533,10 +9573,10 @@
   }
  ],
  "stats": {
-  "nodes": 537,
+  "nodes": 539,
   "edges": 819,
   "types": {
-   "Concern": 12,
+   "Concern": 14,
    "Company": 20,
    "Report": 20,
    "Flag": 171,
@@ -9554,7 +9594,7 @@
   "flags_total": 171,
   "questions_linked": 143,
   "questions_total": 143,
-  "concerns_aligned": 12,
-  "concerns_total": 12
+  "concerns_aligned": 14,
+  "concerns_total": 14
  }
 }
