@@ -1,0 +1,15 @@
+{
+ "code": "688646",
+ "name": "ST逸飞",
+ "flags": [],
+ "main": {
+  "rev_now": 803012147.31,
+  "rev_prev": 692068745.41,
+  "rev_yoy": 692.0
+ },
+ "receivable": null,
+ "prepay": {
+  "now": 35694539.06,
+  "prev": 30450282.5
+ }
+}

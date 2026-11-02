@@ -1,0 +1,383 @@
+{
+ "generated_at": "2026-11-01T20:57:23",
+ "rows": [
+  {
+   "code": "603377",
+   "name": "ST东时",
+   "questions": 19,
+   "flags": 1,
+   "hit_topics": 4,
+   "supported_flags": 1,
+   "question_topics": [
+    "关联交易",
+    "内控",
+    "募集资金",
+    "商誉",
+    "在建工程",
+    "应收",
+    "持续经营",
+    "收入",
+    "毛利率",
+    "诉讼",
+    "资金占用",
+    "预付"
+   ],
+   "flag_topics": [
+    "资金占用"
+   ]
+  },
+  {
+   "code": "600080",
+   "name": "ST金花",
+   "questions": 5,
+   "flags": 1,
+   "hit_topics": 1,
+   "supported_flags": 1,
+   "question_topics": [
+    "关联交易",
+    "内控",
+    "募集资金",
+    "商誉",
+    "在建工程",
+    "应收",
+    "收入",
+    "资金占用",
+    "预付"
+   ],
+   "flag_topics": [
+    "内控",
+    "资金占用"
+   ]
+  },
+  {
+   "code": "600825",
+   "name": "新华传媒",
+   "questions": 5,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "关联交易",
+    "商誉",
+    "应收",
+    "收入"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "600491",
+   "name": "ST龙元",
+   "questions": 23,
+   "flags": 3,
+   "hit_topics": 19,
+   "supported_flags": 2,
+   "question_topics": [
+    "关联交易",
+    "商誉",
+    "应收",
+    "持续经营",
+    "收入",
+    "毛利率",
+    "诉讼",
+    "预付"
+   ],
+   "flag_topics": [
+    "应收",
+    "收入",
+    "资金占用",
+    "预付"
+   ]
+  },
+  {
+   "code": "603567",
+   "name": "珍宝岛",
+   "questions": 0,
+   "flags": 4,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [],
+   "flag_topics": [
+    "内控",
+    "应收",
+    "收入",
+    "资金占用",
+    "预付"
+   ]
+  },
+  {
+   "code": "600363",
+   "name": "联创光电",
+   "questions": 7,
+   "flags": 1,
+   "hit_topics": 3,
+   "supported_flags": 1,
+   "question_topics": [
+    "关联交易",
+    "内控",
+    "存货",
+    "应收",
+    "持续经营",
+    "收入",
+    "毛利率",
+    "预付"
+   ],
+   "flag_topics": [
+    "预付"
+   ]
+  },
+  {
+   "code": "600187",
+   "name": "*ST国中",
+   "questions": 5,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "内控",
+    "商誉",
+    "应收",
+    "收入",
+    "毛利率",
+    "诉讼"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "600116",
+   "name": "三峡水利",
+   "questions": 3,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "商誉",
+    "应收"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "688323",
+   "name": "瑞华泰",
+   "questions": 0,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [],
+   "flag_topics": []
+  },
+  {
+   "code": "601010",
+   "name": "ST文峰",
+   "questions": 3,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "商誉",
+    "应收",
+    "收入"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "603599",
+   "name": "广信股份",
+   "questions": 4,
+   "flags": 2,
+   "hit_topics": 2,
+   "supported_flags": 2,
+   "question_topics": [
+    "关联交易",
+    "商誉",
+    "存货",
+    "应收",
+    "收入",
+    "毛利率"
+   ],
+   "flag_topics": [
+    "应收",
+    "收入",
+    "预付"
+   ]
+  },
+  {
+   "code": "603108",
+   "name": "润达医疗",
+   "questions": 6,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "商誉",
+    "存货",
+    "应收",
+    "持续经营",
+    "收入",
+    "毛利率",
+    "预付"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "688646",
+   "name": "ST逸飞",
+   "questions": 11,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "关联交易",
+    "内控",
+    "募集资金",
+    "商誉",
+    "存货",
+    "应收",
+    "收入",
+    "毛利率",
+    "预付"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "603398",
+   "name": "*ST沐邦",
+   "questions": 4,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "内控",
+    "募集资金",
+    "商誉",
+    "在建工程",
+    "存货",
+    "收入"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "600880",
+   "name": "博瑞传播",
+   "questions": 12,
+   "flags": 4,
+   "hit_topics": 6,
+   "supported_flags": 3,
+   "question_topics": [
+    "关联交易",
+    "内控",
+    "商誉",
+    "应收",
+    "持续经营",
+    "收入",
+    "毛利率",
+    "预付"
+   ],
+   "flag_topics": [
+    "在建工程",
+    "存货",
+    "应收",
+    "预付"
+   ]
+  },
+  {
+   "code": "920932",
+   "name": "科达自控",
+   "questions": 3,
+   "flags": 1,
+   "hit_topics": 3,
+   "supported_flags": 1,
+   "question_topics": [
+    "内控",
+    "商誉",
+    "在建工程",
+    "应收",
+    "持续经营",
+    "收入",
+    "毛利率"
+   ],
+   "flag_topics": [
+    "收入",
+    "毛利率"
+   ]
+  },
+  {
+   "code": "600703",
+   "name": "三安光电",
+   "questions": 13,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "关联交易",
+    "内控",
+    "募集资金",
+    "商誉",
+    "在建工程",
+    "存货",
+    "持续经营",
+    "收入",
+    "毛利率",
+    "预付"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "600545",
+   "name": "卓郎智能",
+   "questions": 8,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "关联交易",
+    "内控",
+    "应收",
+    "持续经营",
+    "收入",
+    "毛利率",
+    "诉讼",
+    "资金占用",
+    "预付"
+   ],
+   "flag_topics": []
+  },
+  {
+   "code": "600818",
+   "name": "ST中路",
+   "questions": 9,
+   "flags": 3,
+   "hit_topics": 2,
+   "supported_flags": 2,
+   "question_topics": [
+    "关联交易",
+    "内控",
+    "存货",
+    "应收",
+    "持续经营",
+    "收入",
+    "资金占用",
+    "预付"
+   ],
+   "flag_topics": [
+    "在建工程",
+    "资金占用",
+    "预付"
+   ]
+  },
+  {
+   "code": "600877",
+   "name": "电科芯片",
+   "questions": 3,
+   "flags": 0,
+   "hit_topics": 0,
+   "supported_flags": 0,
+   "question_topics": [
+    "关联交易",
+    "应收",
+    "收入",
+    "诉讼"
+   ],
+   "flag_topics": []
+  }
+ ]
+}

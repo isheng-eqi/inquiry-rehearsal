@@ -1,0 +1,203 @@
+{
+ "source": "b2",
+ "items": [
+  {
+   "code": "603599",
+   "name": "广信股份",
+   "flags": 13,
+   "questions": 4,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q3"
+    },
+    {
+     "flag": "F6",
+     "question": "Q1"
+    },
+    {
+     "flag": "F7",
+     "question": "Q1"
+    },
+    {
+     "flag": "F8",
+     "question": "Q1"
+    },
+    {
+     "flag": "F9",
+     "question": "Q2"
+    },
+    {
+     "flag": "F10",
+     "question": "Q3"
+    },
+    {
+     "flag": "F11",
+     "question": "Q4"
+    },
+    {
+     "flag": "F12",
+     "question": "Q4"
+    },
+    {
+     "flag": "F13",
+     "question": "Q4"
+    }
+   ],
+   "matched_flags": 13,
+   "matched_questions": 4
+  },
+  {
+   "code": "603108",
+   "name": "润达医疗",
+   "flags": 12,
+   "questions": 6,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q3"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q2"
+    },
+    {
+     "flag": "F6",
+     "question": "Q1"
+    },
+    {
+     "flag": "F7",
+     "question": "Q2"
+    },
+    {
+     "flag": "F8",
+     "question": "Q2"
+    },
+    {
+     "flag": "F9",
+     "question": "Q4"
+    },
+    {
+     "flag": "F10",
+     "question": "Q4"
+    }
+   ],
+   "matched_flags": 10,
+   "matched_questions": 4
+  },
+  {
+   "code": "688646",
+   "name": "ST逸飞",
+   "flags": 10,
+   "questions": 11,
+   "matches": [
+    {
+     "flag": "F6",
+     "question": "Q3"
+    },
+    {
+     "flag": "F9",
+     "question": "Q7"
+    },
+    {
+     "flag": "F10",
+     "question": "Q7"
+    }
+   ],
+   "matched_flags": 3,
+   "matched_questions": 2
+  },
+  {
+   "code": "603398",
+   "name": "*ST沐邦",
+   "flags": 10,
+   "questions": 4,
+   "matches": [
+    {
+     "flag": "F4",
+     "question": "Q2"
+    },
+    {
+     "flag": "F6",
+     "question": "Q4"
+    },
+    {
+     "flag": "F7",
+     "question": "Q4"
+    },
+    {
+     "flag": "F9",
+     "question": "Q3"
+    },
+    {
+     "flag": "F10",
+     "question": "Q2"
+    }
+   ],
+   "matched_flags": 5,
+   "matched_questions": 3
+  },
+  {
+   "code": "600880",
+   "name": "博瑞传播",
+   "flags": 14,
+   "questions": 12,
+   "matches": [
+    {
+     "flag": "F3",
+     "question": "Q9"
+    },
+    {
+     "flag": "F4",
+     "question": "Q9"
+    },
+    {
+     "flag": "F5",
+     "question": "Q8"
+    },
+    {
+     "flag": "F6",
+     "question": "Q8"
+    },
+    {
+     "flag": "F7",
+     "question": "Q8"
+    },
+    {
+     "flag": "F11",
+     "question": "Q1"
+    }
+   ],
+   "matched_flags": 6,
+   "matched_questions": 3
+  }
+ ]
+}

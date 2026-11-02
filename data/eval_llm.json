@@ -1,0 +1,189 @@
+{
+ "rows": [
+  {
+   "code": "603377",
+   "name": "ST东时",
+   "questions": 19,
+   "flags": 0,
+   "supported": 0,
+   "hit": 0,
+   "citation_ok": 0
+  },
+  {
+   "code": "600080",
+   "name": "ST金花",
+   "questions": 5,
+   "flags": 1,
+   "supported": 1,
+   "hit": 1,
+   "citation_ok": 1
+  },
+  {
+   "code": "600825",
+   "name": "新华传媒",
+   "questions": 5,
+   "flags": 2,
+   "supported": 1,
+   "hit": 2,
+   "citation_ok": 2
+  },
+  {
+   "code": "600491",
+   "name": "ST龙元",
+   "questions": 23,
+   "flags": 0,
+   "supported": 0,
+   "hit": 0,
+   "citation_ok": 0
+  },
+  {
+   "code": "603567",
+   "name": "珍宝岛",
+   "questions": 0,
+   "flags": 1,
+   "supported": 0,
+   "hit": 0,
+   "citation_ok": 0
+  },
+  {
+   "code": "600363",
+   "name": "联创光电",
+   "questions": 7,
+   "flags": 3,
+   "supported": 2,
+   "hit": 4,
+   "citation_ok": 2
+  },
+  {
+   "code": "600187",
+   "name": "*ST国中",
+   "questions": 5,
+   "flags": 1,
+   "supported": 1,
+   "hit": 2,
+   "citation_ok": 0
+  },
+  {
+   "code": "600116",
+   "name": "三峡水利",
+   "questions": 3,
+   "flags": 1,
+   "supported": 1,
+   "hit": 1,
+   "citation_ok": 1
+  },
+  {
+   "code": "688323",
+   "name": "瑞华泰",
+   "questions": 0,
+   "flags": 1,
+   "supported": 0,
+   "hit": 0,
+   "citation_ok": 1
+  },
+  {
+   "code": "601010",
+   "name": "ST文峰",
+   "questions": 3,
+   "flags": 0,
+   "supported": 0,
+   "hit": 0,
+   "citation_ok": 0
+  },
+  {
+   "code": "603599",
+   "name": "广信股份",
+   "questions": 4,
+   "flags": 1,
+   "supported": 1,
+   "hit": 2,
+   "citation_ok": 1
+  },
+  {
+   "code": "603108",
+   "name": "润达医疗",
+   "questions": 6,
+   "flags": 2,
+   "supported": 2,
+   "hit": 4,
+   "citation_ok": 0
+  },
+  {
+   "code": "688646",
+   "name": "ST逸飞",
+   "questions": 11,
+   "flags": 2,
+   "supported": 1,
+   "hit": 3,
+   "citation_ok": 0
+  },
+  {
+   "code": "603398",
+   "name": "*ST沐邦",
+   "questions": 4,
+   "flags": 1,
+   "supported": 1,
+   "hit": 1,
+   "citation_ok": 1
+  },
+  {
+   "code": "600880",
+   "name": "博瑞传播",
+   "questions": 12,
+   "flags": 1,
+   "supported": 1,
+   "hit": 8,
+   "citation_ok": 1
+  },
+  {
+   "code": "920932",
+   "name": "科达自控",
+   "questions": 3,
+   "flags": 1,
+   "supported": 1,
+   "hit": 1,
+   "citation_ok": 1
+  },
+  {
+   "code": "600703",
+   "name": "三安光电",
+   "questions": 13,
+   "flags": 0,
+   "supported": 0,
+   "hit": 0,
+   "citation_ok": 0
+  },
+  {
+   "code": "600545",
+   "name": "卓郎智能",
+   "questions": 8,
+   "flags": 1,
+   "supported": 0,
+   "hit": 0,
+   "citation_ok": 0
+  },
+  {
+   "code": "600818",
+   "name": "ST中路",
+   "questions": 9,
+   "flags": 1,
+   "supported": 1,
+   "hit": 3,
+   "citation_ok": 1
+  },
+  {
+   "code": "600877",
+   "name": "电科芯片",
+   "questions": 3,
+   "flags": 0,
+   "supported": 0,
+   "hit": 0,
+   "citation_ok": 0
+  }
+ ],
+ "total_flags": 20,
+ "supported": 14,
+ "citation_ok": 12,
+ "questions": 143,
+ "hit": 32
+}

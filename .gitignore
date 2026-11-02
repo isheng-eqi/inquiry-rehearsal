@@ -1,0 +1,5 @@
+﻿data/raw/
+submission/
+videos/_build/
+__pycache__/
+*.pyc

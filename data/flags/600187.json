@@ -1,0 +1,15 @@
+{
+ "code": "600187",
+ "name": "*ST国中",
+ "flags": [],
+ "main": {
+  "rev_now": 222815735.23,
+  "rev_prev": 179155656.23,
+  "rev_yoy": 24.37226
+ },
+ "receivable": null,
+ "prepay": {
+  "now": 522627.98,
+  "prev": 707052.89
+ }
+}

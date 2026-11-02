@@ -1,0 +1,388 @@
+{
+ "source": "b2",
+ "items": [
+  {
+   "code": "603377",
+   "name": "ST东时",
+   "flags": 16,
+   "questions": 19,
+   "matches": [
+    {
+     "flag": "F2",
+     "question": "Q4"
+    },
+    {
+     "flag": "F4",
+     "question": "Q18"
+    },
+    {
+     "flag": "F5",
+     "question": "Q18"
+    },
+    {
+     "flag": "F8",
+     "question": "Q1"
+    },
+    {
+     "flag": "F9",
+     "question": "Q1"
+    },
+    {
+     "flag": "F10",
+     "question": "Q1"
+    },
+    {
+     "flag": "F15",
+     "question": "Q17"
+    },
+    {
+     "flag": "F16",
+     "question": "Q17"
+    }
+   ],
+   "matched_flags": 8,
+   "matched_questions": 4
+  },
+  {
+   "code": "600080",
+   "name": "ST金花",
+   "flags": 13,
+   "questions": 5,
+   "matches": [
+    {
+     "flag": "F8",
+     "question": "Q1"
+    },
+    {
+     "flag": "F13",
+     "question": "Q1"
+    },
+    {
+     "flag": "F10",
+     "question": "Q1"
+    },
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q5"
+    },
+    {
+     "flag": "F3",
+     "question": "Q3"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q3"
+    },
+    {
+     "flag": "F6",
+     "question": "Q4"
+    },
+    {
+     "flag": "F7",
+     "question": "Q4"
+    },
+    {
+     "flag": "F9",
+     "question": "Q3"
+    },
+    {
+     "flag": "F11",
+     "question": "Q4"
+    },
+    {
+     "flag": "F12",
+     "question": "Q2"
+    }
+   ],
+   "matched_flags": 13,
+   "matched_questions": 5
+  },
+  {
+   "code": "600187",
+   "name": "*ST国中",
+   "flags": 11,
+   "questions": 5,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600116",
+   "name": "三峡水利",
+   "flags": 11,
+   "questions": 3,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q3"
+    },
+    {
+     "flag": "F6",
+     "question": "Q1"
+    },
+    {
+     "flag": "F7",
+     "question": "Q1"
+    },
+    {
+     "flag": "F8",
+     "question": "Q1"
+    },
+    {
+     "flag": "F9",
+     "question": "Q1"
+    },
+    {
+     "flag": "F10",
+     "question": "Q1"
+    },
+    {
+     "flag": "F11",
+     "question": "Q1"
+    }
+   ],
+   "matched_flags": 11,
+   "matched_questions": 3
+  },
+  {
+   "code": "601010",
+   "name": "ST文峰",
+   "flags": 12,
+   "questions": 3,
+   "matches": [
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q3"
+    }
+   ],
+   "matched_flags": 4,
+   "matched_questions": 2
+  },
+  {
+   "code": "603599",
+   "name": "广信股份",
+   "flags": 11,
+   "questions": 4,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q3"
+    },
+    {
+     "flag": "F6",
+     "question": "Q1"
+    },
+    {
+     "flag": "F7",
+     "question": "Q4"
+    },
+    {
+     "flag": "F8",
+     "question": "Q4"
+    },
+    {
+     "flag": "F9",
+     "question": "Q4"
+    },
+    {
+     "flag": "F10",
+     "question": "Q2"
+    },
+    {
+     "flag": "F11",
+     "question": "Q2"
+    }
+   ],
+   "matched_flags": 11,
+   "matched_questions": 4
+  },
+  {
+   "code": "603108",
+   "name": "润达医疗",
+   "flags": 14,
+   "questions": 6,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q3"
+    },
+    {
+     "flag": "F3",
+     "question": "Q3"
+    },
+    {
+     "flag": "F4",
+     "question": "Q6"
+    },
+    {
+     "flag": "F5",
+     "question": "Q6"
+    },
+    {
+     "flag": "F6",
+     "question": "Q1"
+    },
+    {
+     "flag": "F7",
+     "question": "Q1"
+    },
+    {
+     "flag": "F8",
+     "question": "Q4"
+    },
+    {
+     "flag": "F9",
+     "question": "Q4"
+    },
+    {
+     "flag": "F10",
+     "question": "Q2"
+    },
+    {
+     "flag": "F11",
+     "question": "Q2"
+    },
+    {
+     "flag": "F12",
+     "question": "Q4"
+    },
+    {
+     "flag": "F13",
+     "question": "Q4"
+    }
+   ],
+   "matched_flags": 13,
+   "matched_questions": 5
+  },
+  {
+   "code": "688646",
+   "name": "ST逸飞",
+   "flags": 10,
+   "questions": 11,
+   "matches": [
+    {
+     "flag": "F7",
+     "question": "Q3"
+    },
+    {
+     "flag": "F9",
+     "question": "Q7"
+    },
+    {
+     "flag": "F10",
+     "question": "Q7"
+    }
+   ],
+   "matched_flags": 3,
+   "matched_questions": 2
+  },
+  {
+   "code": "603398",
+   "name": "*ST沐邦",
+   "flags": 9,
+   "questions": 4,
+   "matches": [
+    {
+     "flag": "F8",
+     "question": "Q2"
+    },
+    {
+     "flag": "F9",
+     "question": "Q2"
+    }
+   ],
+   "matched_flags": 2,
+   "matched_questions": 1
+  },
+  {
+   "code": "600880",
+   "name": "博瑞传播",
+   "flags": 15,
+   "questions": 12,
+   "matches": [
+    {
+     "flag": "F10",
+     "question": "Q1"
+    },
+    {
+     "flag": "F11",
+     "question": "Q1"
+    },
+    {
+     "flag": "F4",
+     "question": "Q8"
+    },
+    {
+     "flag": "F5",
+     "question": "Q8"
+    },
+    {
+     "flag": "F2",
+     "question": "Q9"
+    },
+    {
+     "flag": "F3",
+     "question": "Q9"
+    }
+   ],
+   "matched_flags": 6,
+   "matched_questions": 3
+  }
+ ]
+}

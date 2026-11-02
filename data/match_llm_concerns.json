@@ -1,0 +1,567 @@
+{
+ "source": "b2",
+ "items": [
+  {
+   "code": "603377",
+   "name": "ST东时",
+   "flags": 15,
+   "questions": 19,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q17"
+    },
+    {
+     "flag": "F5",
+     "question": "Q17"
+    },
+    {
+     "flag": "F6",
+     "question": "Q19"
+    },
+    {
+     "flag": "F7",
+     "question": "Q19"
+    },
+    {
+     "flag": "F8",
+     "question": "Q4"
+    },
+    {
+     "flag": "F9",
+     "question": "Q4"
+    },
+    {
+     "flag": "F10",
+     "question": "Q4"
+    },
+    {
+     "flag": "F11",
+     "question": "Q19"
+    },
+    {
+     "flag": "F12",
+     "question": "Q17"
+    },
+    {
+     "flag": "F13",
+     "question": "Q17"
+    },
+    {
+     "flag": "F14",
+     "question": "Q17"
+    },
+    {
+     "flag": "F15",
+     "question": "Q17"
+    }
+   ],
+   "matched_flags": 15,
+   "matched_questions": 4
+  },
+  {
+   "code": "600080",
+   "name": "ST金花",
+   "flags": 16,
+   "questions": 5,
+   "matches": [
+    {
+     "flag": "F5",
+     "question": "Q1"
+    },
+    {
+     "flag": "F13",
+     "question": "Q1"
+    },
+    {
+     "flag": "F14",
+     "question": "Q1"
+    },
+    {
+     "flag": "F16",
+     "question": "Q1"
+    }
+   ],
+   "matched_flags": 4,
+   "matched_questions": 1
+  },
+  {
+   "code": "600825",
+   "name": "新华传媒",
+   "flags": 9,
+   "questions": 5,
+   "matches": [
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q4"
+    },
+    {
+     "flag": "F5",
+     "question": "Q4"
+    }
+   ],
+   "matched_flags": 3,
+   "matched_questions": 2
+  },
+  {
+   "code": "600491",
+   "name": "ST龙元",
+   "flags": 11,
+   "questions": 23,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q5"
+    },
+    {
+     "flag": "F2",
+     "question": "Q5"
+    },
+    {
+     "flag": "F3",
+     "question": "Q10"
+    },
+    {
+     "flag": "F4",
+     "question": "Q16"
+    },
+    {
+     "flag": "F5",
+     "question": "Q15"
+    },
+    {
+     "flag": "F6",
+     "question": "Q15"
+    },
+    {
+     "flag": "F10",
+     "question": "Q17"
+    },
+    {
+     "flag": "F11",
+     "question": "Q17"
+    }
+   ],
+   "matched_flags": 8,
+   "matched_questions": 5
+  },
+  {
+   "code": "600363",
+   "name": "联创光电",
+   "flags": 15,
+   "questions": 7,
+   "matches": [
+    {
+     "flag": "F4",
+     "question": "Q1"
+    },
+    {
+     "flag": "F5",
+     "question": "Q1"
+    },
+    {
+     "flag": "F7",
+     "question": "Q6"
+    },
+    {
+     "flag": "F8",
+     "question": "Q6"
+    },
+    {
+     "flag": "F14",
+     "question": "Q7"
+    }
+   ],
+   "matched_flags": 5,
+   "matched_questions": 3
+  },
+  {
+   "code": "600187",
+   "name": "*ST国中",
+   "flags": 14,
+   "questions": 5,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q4"
+    },
+    {
+     "flag": "F2",
+     "question": "Q4"
+    },
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q2"
+    },
+    {
+     "flag": "F5",
+     "question": "Q2"
+    },
+    {
+     "flag": "F6",
+     "question": "Q2"
+    },
+    {
+     "flag": "F7",
+     "question": "Q2"
+    },
+    {
+     "flag": "F8",
+     "question": "Q2"
+    },
+    {
+     "flag": "F9",
+     "question": "Q2"
+    },
+    {
+     "flag": "F10",
+     "question": "Q2"
+    },
+    {
+     "flag": "F11",
+     "question": "Q2"
+    },
+    {
+     "flag": "F12",
+     "question": "Q2"
+    },
+    {
+     "flag": "F13",
+     "question": "Q2"
+    },
+    {
+     "flag": "F14",
+     "question": "Q2"
+    }
+   ],
+   "matched_flags": 14,
+   "matched_questions": 2
+  },
+  {
+   "code": "600116",
+   "name": "三峡水利",
+   "flags": 15,
+   "questions": 3,
+   "matches": [
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q2"
+    },
+    {
+     "flag": "F9",
+     "question": "Q3"
+    },
+    {
+     "flag": "F10",
+     "question": "Q3"
+    }
+   ],
+   "matched_flags": 4,
+   "matched_questions": 2
+  },
+  {
+   "code": "601010",
+   "name": "ST文峰",
+   "flags": 11,
+   "questions": 3,
+   "matches": [
+    {
+     "flag": "F3",
+     "question": "Q3"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F10",
+     "question": "Q2"
+    }
+   ],
+   "matched_flags": 3,
+   "matched_questions": 2
+  },
+  {
+   "code": "603599",
+   "name": "广信股份",
+   "flags": 15,
+   "questions": 4,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q1"
+    },
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F6",
+     "question": "Q4"
+    },
+    {
+     "flag": "F7",
+     "question": "Q4"
+    }
+   ],
+   "matched_flags": 5,
+   "matched_questions": 3
+  },
+  {
+   "code": "603108",
+   "name": "润达医疗",
+   "flags": 12,
+   "questions": 6,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q1"
+    },
+    {
+     "flag": "F2",
+     "question": "Q1"
+    },
+    {
+     "flag": "F3",
+     "question": "Q2"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q3"
+    },
+    {
+     "flag": "F6",
+     "question": "Q3"
+    },
+    {
+     "flag": "F7",
+     "question": "Q4"
+    },
+    {
+     "flag": "F8",
+     "question": "Q4"
+    },
+    {
+     "flag": "F9",
+     "question": "Q5"
+    },
+    {
+     "flag": "F10",
+     "question": "Q2"
+    },
+    {
+     "flag": "F11",
+     "question": "Q3"
+    },
+    {
+     "flag": "F12",
+     "question": "Q3"
+    }
+   ],
+   "matched_flags": 12,
+   "matched_questions": 5
+  },
+  {
+   "code": "688646",
+   "name": "ST逸飞",
+   "flags": 13,
+   "questions": 11,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q10"
+    },
+    {
+     "flag": "F2",
+     "question": "Q3"
+    },
+    {
+     "flag": "F3",
+     "question": "Q5"
+    },
+    {
+     "flag": "F4",
+     "question": "Q5"
+    },
+    {
+     "flag": "F5",
+     "question": "Q5"
+    },
+    {
+     "flag": "F6",
+     "question": "Q5"
+    },
+    {
+     "flag": "F7",
+     "question": "Q7"
+    },
+    {
+     "flag": "F8",
+     "question": "Q7"
+    },
+    {
+     "flag": "F9",
+     "question": "Q1"
+    },
+    {
+     "flag": "F10",
+     "question": "Q1"
+    },
+    {
+     "flag": "F11",
+     "question": "Q1"
+    },
+    {
+     "flag": "F12",
+     "question": "Q1"
+    },
+    {
+     "flag": "F13",
+     "question": "Q3"
+    }
+   ],
+   "matched_flags": 13,
+   "matched_questions": 5
+  },
+  {
+   "code": "603398",
+   "name": "*ST沐邦",
+   "flags": 16,
+   "questions": 4,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q3"
+    },
+    {
+     "flag": "F2",
+     "question": "Q3"
+    },
+    {
+     "flag": "F3",
+     "question": "Q3"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q3"
+    },
+    {
+     "flag": "F6",
+     "question": "Q3"
+    },
+    {
+     "flag": "F7",
+     "question": "Q3"
+    },
+    {
+     "flag": "F8",
+     "question": "Q3"
+    },
+    {
+     "flag": "F9",
+     "question": "Q3"
+    },
+    {
+     "flag": "F10",
+     "question": "Q3"
+    },
+    {
+     "flag": "F11",
+     "question": "Q3"
+    },
+    {
+     "flag": "F12",
+     "question": "Q3"
+    },
+    {
+     "flag": "F13",
+     "question": "Q3"
+    },
+    {
+     "flag": "F14",
+     "question": "Q3"
+    },
+    {
+     "flag": "F15",
+     "question": "Q3"
+    },
+    {
+     "flag": "F16",
+     "question": "Q2"
+    }
+   ],
+   "matched_flags": 16,
+   "matched_questions": 2
+  },
+  {
+   "code": "600880",
+   "name": "博瑞传播",
+   "flags": 12,
+   "questions": 12,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q1"
+    },
+    {
+     "flag": "F4",
+     "question": "Q8"
+    },
+    {
+     "flag": "F5",
+     "question": "Q8"
+    },
+    {
+     "flag": "F8",
+     "question": "Q5"
+    },
+    {
+     "flag": "F10",
+     "question": "Q8"
+    },
+    {
+     "flag": "F11",
+     "question": "Q8"
+    }
+   ],
+   "matched_flags": 6,
+   "matched_questions": 3
+  }
+ ]
+}

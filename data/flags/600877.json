@@ -1,0 +1,15 @@
+{
+ "code": "600877",
+ "name": "电科芯片",
+ "flags": [],
+ "main": {
+  "rev_now": 1022034134.9,
+  "rev_prev": 1044554961.02,
+  "rev_yoy": -2.161
+ },
+ "receivable": null,
+ "prepay": {
+  "now": 69204.91,
+  "prev": 86278.65
+ }
+}

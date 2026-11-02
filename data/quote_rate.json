@@ -1,0 +1,25 @@
+{
+ "companies": [
+  {
+   "code": "600363",
+   "name": "联创光电",
+   "proposed": 14,
+   "located": 8
+  },
+  {
+   "code": "600491",
+   "name": "ST龙元",
+   "proposed": 14,
+   "located": 8
+  },
+  {
+   "code": "600825",
+   "name": "新华传媒",
+   "proposed": 14,
+   "located": 8
+  }
+ ],
+ "proposed": 42,
+ "located": 24,
+ "rate": 0.571
+}

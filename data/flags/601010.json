@@ -1,0 +1,15 @@
+{
+ "code": "601010",
+ "name": "ST文峰",
+ "flags": [],
+ "main": {
+  "rev_now": 1504562990.21,
+  "rev_prev": 1890828169.02,
+  "rev_yoy": 1.0
+ },
+ "receivable": null,
+ "prepay": {
+  "now": 6460959.11,
+  "prev": 7381289.4
+ }
+}

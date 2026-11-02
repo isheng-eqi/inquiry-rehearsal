@@ -1,0 +1,235 @@
+{
+ "source": "b1",
+ "items": [
+  {
+   "code": "603377",
+   "name": "ST东时",
+   "flags": 4,
+   "questions": 19,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600080",
+   "name": "ST金花",
+   "flags": 3,
+   "questions": 5,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600825",
+   "name": "新华传媒",
+   "flags": 3,
+   "questions": 5,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600491",
+   "name": "ST龙元",
+   "flags": 2,
+   "questions": 23,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q5"
+    },
+    {
+     "flag": "F2",
+     "question": "Q5"
+    }
+   ],
+   "matched_flags": 2,
+   "matched_questions": 1
+  },
+  {
+   "code": "600363",
+   "name": "联创光电",
+   "flags": 5,
+   "questions": 7,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q1"
+    },
+    {
+     "flag": "F3",
+     "question": "Q5"
+    },
+    {
+     "flag": "F4",
+     "question": "Q5"
+    },
+    {
+     "flag": "F5",
+     "question": "Q5"
+    }
+   ],
+   "matched_flags": 4,
+   "matched_questions": 2
+  },
+  {
+   "code": "600187",
+   "name": "*ST国中",
+   "matches": [],
+   "flags": 0,
+   "questions": 5,
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600116",
+   "name": "三峡水利",
+   "matches": [],
+   "flags": 0,
+   "questions": 3,
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "601010",
+   "name": "ST文峰",
+   "flags": 2,
+   "questions": 3,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "603599",
+   "name": "广信股份",
+   "flags": 3,
+   "questions": 4,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "603108",
+   "name": "润达医疗",
+   "flags": 5,
+   "questions": 6,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q1"
+    },
+    {
+     "flag": "F2",
+     "question": "Q1"
+    },
+    {
+     "flag": "F3",
+     "question": "Q1"
+    },
+    {
+     "flag": "F4",
+     "question": "Q1"
+    },
+    {
+     "flag": "F5",
+     "question": "Q1"
+    }
+   ],
+   "matched_flags": 5,
+   "matched_questions": 1
+  },
+  {
+   "code": "688646",
+   "name": "ST逸飞",
+   "flags": 3,
+   "questions": 11,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "603398",
+   "name": "*ST沐邦",
+   "flags": 3,
+   "questions": 4,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600880",
+   "name": "博瑞传播",
+   "flags": 2,
+   "questions": 12,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "920932",
+   "name": "科达自控",
+   "matches": [],
+   "flags": 0,
+   "questions": 3,
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600703",
+   "name": "三安光电",
+   "flags": 6,
+   "questions": 13,
+   "matches": [
+    {
+     "flag": "F2",
+     "question": "Q1"
+    },
+    {
+     "flag": "F3",
+     "question": "Q1"
+    },
+    {
+     "flag": "F4",
+     "question": "Q1"
+    },
+    {
+     "flag": "F5",
+     "question": "Q8"
+    },
+    {
+     "flag": "F6",
+     "question": "Q5"
+    }
+   ],
+   "matched_flags": 5,
+   "matched_questions": 3
+  },
+  {
+   "code": "600545",
+   "name": "卓郎智能",
+   "flags": 3,
+   "questions": 8,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600818",
+   "name": "ST中路",
+   "flags": 3,
+   "questions": 9,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600877",
+   "name": "电科芯片",
+   "flags": 4,
+   "questions": 3,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  }
+ ]
+}

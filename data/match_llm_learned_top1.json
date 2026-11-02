@@ -1,0 +1,272 @@
+{
+ "source": "b2",
+ "items": [
+  {
+   "code": "603377",
+   "name": "ST东时",
+   "flags": 10,
+   "questions": 19,
+   "matches": [
+    {
+     "flag": "F6",
+     "question": "Q1"
+    },
+    {
+     "flag": "F5",
+     "question": "Q4"
+    },
+    {
+     "flag": "F3",
+     "question": "Q17"
+    },
+    {
+     "flag": "F10",
+     "question": "Q17"
+    }
+   ],
+   "matched_flags": 4,
+   "matched_questions": 3
+  },
+  {
+   "code": "600080",
+   "name": "ST金花",
+   "flags": 10,
+   "questions": 5,
+   "matches": [
+    {
+     "flag": "F5",
+     "question": "Q1"
+    },
+    {
+     "flag": "F7",
+     "question": "Q1"
+    },
+    {
+     "flag": "F10",
+     "question": "Q1"
+    },
+    {
+     "flag": "F6",
+     "question": "Q3"
+    }
+   ],
+   "matched_flags": 4,
+   "matched_questions": 2
+  },
+  {
+   "code": "600187",
+   "name": "*ST国中",
+   "flags": 8,
+   "questions": 5,
+   "matches": [],
+   "matched_flags": 0,
+   "matched_questions": 0
+  },
+  {
+   "code": "600116",
+   "name": "三峡水利",
+   "flags": 7,
+   "questions": 3,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q3"
+    },
+    {
+     "flag": "F4",
+     "question": "Q1"
+    },
+    {
+     "flag": "F5",
+     "question": "Q1"
+    },
+    {
+     "flag": "F6",
+     "question": "Q1"
+    },
+    {
+     "flag": "F7",
+     "question": "Q1"
+    }
+   ],
+   "matched_flags": 7,
+   "matched_questions": 3
+  },
+  {
+   "code": "601010",
+   "name": "ST文峰",
+   "flags": 8,
+   "questions": 3,
+   "matches": [
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q3"
+    }
+   ],
+   "matched_flags": 2,
+   "matched_questions": 2
+  },
+  {
+   "code": "603599",
+   "name": "广信股份",
+   "flags": 8,
+   "questions": 4,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q2"
+    },
+    {
+     "flag": "F3",
+     "question": "Q3"
+    },
+    {
+     "flag": "F4",
+     "question": "Q3"
+    },
+    {
+     "flag": "F5",
+     "question": "Q1"
+    },
+    {
+     "flag": "F6",
+     "question": "Q4"
+    },
+    {
+     "flag": "F7",
+     "question": "Q4"
+    },
+    {
+     "flag": "F8",
+     "question": "Q2"
+    }
+   ],
+   "matched_flags": 8,
+   "matched_questions": 4
+  },
+  {
+   "code": "603108",
+   "name": "润达医疗",
+   "flags": 9,
+   "questions": 6,
+   "matches": [
+    {
+     "flag": "F1",
+     "question": "Q2"
+    },
+    {
+     "flag": "F2",
+     "question": "Q3"
+    },
+    {
+     "flag": "F3",
+     "question": "Q6"
+    },
+    {
+     "flag": "F4",
+     "question": "Q1"
+    },
+    {
+     "flag": "F5",
+     "question": "Q1"
+    },
+    {
+     "flag": "F6",
+     "question": "Q3"
+    },
+    {
+     "flag": "F7",
+     "question": "Q2"
+    },
+    {
+     "flag": "F8",
+     "question": "Q4"
+    },
+    {
+     "flag": "F9",
+     "question": "Q3"
+    }
+   ],
+   "matched_flags": 9,
+   "matched_questions": 5
+  },
+  {
+   "code": "688646",
+   "name": "ST逸飞",
+   "flags": 7,
+   "questions": 11,
+   "matches": [
+    {
+     "flag": "F5",
+     "question": "Q3"
+    },
+    {
+     "flag": "F7",
+     "question": "Q7"
+    }
+   ],
+   "matched_flags": 2,
+   "matched_questions": 2
+  },
+  {
+   "code": "603398",
+   "name": "*ST沐邦",
+   "flags": 6,
+   "questions": 4,
+   "matches": [
+    {
+     "flag": "F6",
+     "question": "Q2"
+    },
+    {
+     "flag": "F5",
+     "question": "Q3"
+    },
+    {
+     "flag": "F3",
+     "question": "Q3"
+    }
+   ],
+   "matched_flags": 3,
+   "matched_questions": 2
+  },
+  {
+   "code": "600880",
+   "name": "博瑞传播",
+   "flags": 9,
+   "questions": 12,
+   "matches": [
+    {
+     "flag": "F2",
+     "question": "Q9"
+    },
+    {
+     "flag": "F3",
+     "question": "Q8"
+    },
+    {
+     "flag": "F6",
+     "question": "Q1"
+    }
+   ],
+   "matched_flags": 3,
+   "matched_questions": 3
+  }
+ ]
+}

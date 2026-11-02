@@ -1,0 +1,32 @@
+{
+ "rules": {
+  "flags": 20,
+  "supported": 13,
+  "citation_ok": 0,
+  "hit": 38,
+  "questions": 143,
+  "support_rate": 0.65,
+  "citation_rate": 0.0,
+  "coverage": 0.266
+ },
+ "b1": {
+  "flags": 54,
+  "supported": 19,
+  "citation_ok": 54,
+  "hit": 46,
+  "questions": 143,
+  "support_rate": 0.352,
+  "citation_rate": 1.0,
+  "coverage": 0.322
+ },
+ "b2": {
+  "flags": 171,
+  "supported": 122,
+  "citation_ok": 171,
+  "hit": 117,
+  "questions": 143,
+  "support_rate": 0.713,
+  "citation_rate": 1.0,
+  "coverage": 0.818
+ }
+}

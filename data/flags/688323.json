@@ -1,0 +1,15 @@
+{
+ "code": "688323",
+ "name": "瑞华泰",
+ "flags": [],
+ "main": {
+  "rev_now": 386726780.69,
+  "rev_prev": 339054434.45,
+  "rev_yoy": 14.06275
+ },
+ "receivable": null,
+ "prepay": {
+  "now": 1346184.37,
+  "prev": 2397879.19
+ }
+}
