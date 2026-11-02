@@ -51,7 +51,10 @@ def load(name):
 
 
 def score(text: str, keywords) -> int:
-    return sum(text.count(k) for k in keywords)
+    """首个关键词是主词，权重 3；其余 1。避免"减值"这类泛词吸走条目。"""
+    if not keywords:
+        return 0
+    return 3 * text.count(keywords[0]) + sum(text.count(k) for k in keywords[1:])
 
 
 def main() -> int:

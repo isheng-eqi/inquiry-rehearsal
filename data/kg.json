@@ -4804,7 +4804,7 @@
   {
    "source": "flag:603377:7",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -4822,7 +4822,7 @@
   {
    "source": "flag:603377:8",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -4882,7 +4882,7 @@
   {
    "source": "flag:600080:2",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -4990,7 +4990,7 @@
   {
    "source": "flag:600080:8",
    "relation": "属于",
-   "target": "concern:募集资金与募投项目",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -5014,7 +5014,7 @@
   {
    "source": "flag:600825:0",
    "relation": "属于",
-   "target": "concern:存货跌价准备",
+   "target": "concern:应收账款坏账",
    "props": {}
   },
   {
@@ -5296,7 +5296,7 @@
   {
    "source": "flag:603567:0",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -5368,7 +5368,7 @@
   {
    "source": "flag:603567:4",
    "relation": "属于",
-   "target": "concern:诉讼担保与内控",
+   "target": "concern:关联交易与资金占用",
    "props": {}
   },
   {
@@ -5596,7 +5596,7 @@
   {
    "source": "flag:600187:1",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -5722,7 +5722,7 @@
   {
    "source": "flag:600187:8",
    "relation": "属于",
-   "target": "concern:募集资金与募投项目",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -5782,7 +5782,7 @@
   {
    "source": "flag:600116:2",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -6022,7 +6022,7 @@
   {
    "source": "flag:688323:4",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -6100,7 +6100,7 @@
   {
    "source": "flag:601010:2",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -6118,7 +6118,7 @@
   {
    "source": "flag:601010:3",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -6484,7 +6484,7 @@
   {
    "source": "flag:603599:11",
    "relation": "属于",
-   "target": "concern:投资性房地产",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -6526,7 +6526,7 @@
   {
    "source": "flag:603108:1",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -6820,7 +6820,7 @@
   {
    "source": "flag:688646:8",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -6862,7 +6862,7 @@
   {
    "source": "flag:603398:1",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -6994,7 +6994,7 @@
   {
    "source": "flag:600880:2",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -7012,7 +7012,7 @@
   {
    "source": "flag:600880:3",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -7144,7 +7144,7 @@
   {
    "source": "flag:920932:1",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -7294,7 +7294,7 @@
   {
    "source": "flag:600703:2",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -7402,7 +7402,7 @@
   {
    "source": "flag:600703:8",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -7570,7 +7570,7 @@
   {
    "source": "flag:600545:8",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -7648,7 +7648,7 @@
   {
    "source": "flag:600818:2",
    "relation": "属于",
-   "target": "concern:应收账款坏账",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -7738,7 +7738,7 @@
   {
    "source": "flag:600818:7",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -7900,7 +7900,7 @@
   {
    "source": "question:603377:3",
    "relation": "属于",
-   "target": "concern:投资性房地产",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -8008,7 +8008,7 @@
   {
    "source": "question:603377:12",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:其他应收款减值",
    "props": {}
   },
   {
@@ -8032,7 +8032,7 @@
   {
    "source": "question:603377:14",
    "relation": "属于",
-   "target": "concern:投资性房地产",
+   "target": "concern:其他应收款减值",
    "props": {}
   },
   {
@@ -8044,7 +8044,7 @@
   {
    "source": "question:603377:15",
    "relation": "属于",
-   "target": "concern:商誉与减值",
+   "target": "concern:收入与毛利率",
    "props": {}
   },
   {
@@ -8104,7 +8104,7 @@
   {
    "source": "question:600080:1",
    "relation": "属于",
-   "target": "concern:募集资金与募投项目",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -8116,7 +8116,7 @@
   {
    "source": "question:600080:2",
    "relation": "属于",
-   "target": "concern:其他应收款减值",
+   "target": "concern:收入与毛利率",
    "props": {}
   },
   {
@@ -8308,7 +8308,7 @@
   {
    "source": "question:600491:8",
    "relation": "属于",
-   "target": "concern:其他应收款减值",
+   "target": "concern:应收账款坏账",
    "props": {}
   },
   {
@@ -8392,7 +8392,7 @@
   {
    "source": "question:600491:15",
    "relation": "属于",
-   "target": "concern:其他应收款减值",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -8512,7 +8512,7 @@
   {
    "source": "question:600363:2",
    "relation": "属于",
-   "target": "concern:收入与毛利率",
+   "target": "concern:应收账款坏账",
    "props": {}
   },
   {
@@ -8776,7 +8776,7 @@
   {
    "source": "question:603108:2",
    "relation": "属于",
-   "target": "concern:其他应收款减值",
+   "target": "concern:预付款项异常",
    "props": {}
   },
   {
@@ -9124,7 +9124,7 @@
   {
    "source": "question:600880:10",
    "relation": "属于",
-   "target": "concern:持续经营能力",
+   "target": "concern:应收账款坏账",
    "props": {}
   },
   {
@@ -9232,7 +9232,7 @@
   {
    "source": "question:600703:4",
    "relation": "属于",
-   "target": "concern:投资性房地产",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -9256,7 +9256,7 @@
   {
    "source": "question:600703:6",
    "relation": "属于",
-   "target": "concern:收入与毛利率",
+   "target": "concern:在建工程与转固",
    "props": {}
   },
   {
@@ -9352,7 +9352,7 @@
   {
    "source": "question:600545:1",
    "relation": "属于",
-   "target": "concern:诉讼担保与内控",
+   "target": "concern:应收账款坏账",
    "props": {}
   },
   {
@@ -9412,7 +9412,7 @@
   {
    "source": "question:600545:6",
    "relation": "属于",
-   "target": "concern:关联交易与资金占用",
+   "target": "concern:货币资金与偿债",
    "props": {}
   },
   {
